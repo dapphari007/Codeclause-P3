@@ -1,3 +1,14 @@
+# Codeclause  Internship
+
+## PROJECT-3
+
+### Music Streaming App
+
+
+
+
+
+
 # NFT Music Player
 
 ## Technology Stack & Tools
