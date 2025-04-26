@@ -1,6 +1,4 @@
-# Codeclause  Internship
-
-## PROJECT-3
+# Codeclause  Internship  PROJECT-3
 
 ### Music Streaming App
 
